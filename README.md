@@ -1,2 +1,3 @@
-# A simple React.js Sample App, using webpack
+# A simple React.js Sample App, using Gulp
+
 
