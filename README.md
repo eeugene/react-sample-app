@@ -1,1 +1,2 @@
-"# react-sample-app" 
+# A simple React.js Sample App, using webpack
+
